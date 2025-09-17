@@ -11,8 +11,8 @@ repo_url: "https://github.com/your-github-name/your-repo"
 logo_path: "images/your-logo.png"                            # Logo obere Ecke Navbar
 
 # Navbar rechts
-portal_text: ""                     # z.B. Interne Lernplattform
-portal_url: ""                      # https://www.ilias.uni-koeln.de/ilias/login.php?client_id=uk&cmd=force_login&lang=de
+portal_text: "Hotzenplotz"                     # z.B. Interne Lernplattform
+portal_url: "Hotzenplotz"                      # https://www.ilias.uni-koeln.de/ilias/login.php?client_id=uk&cmd=force_login&lang=de
 
 # Footer / Impressum-Link im Footer
 impressum_href: "base/impressum.qmd"   # Script macht automatisch .html daraus
@@ -31,14 +31,14 @@ brand_font: "system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto
 dark_theme: "yes"             # "yes" oder "no"
 
 # --- Impressum / Datenschutz ---
-responsible_name: ""                                        # z. B. "Prof. Dr. …"
+responsible_name: "Hotzenplotz"                                        # z. B. "Prof. Dr. …"
 responsible_address: " Zeile1 <br/> Zeile 2 <br/> Zeile 3"  # HTML-Zeilenumbruch mit <br />
 responsible_email: "responsible@uni.de"                     # email der Impressum verantworlichen Person
-uni_name: ""                                                # Name der Uni/Institution               
-uni_url: ""                                                 # Hompage der Uni/Institution
-institute_name: ""                                          # Name der Abteilung/Institut/Unterorganisation
-institute_url: ""                                           # Hompage der Abteilung/Institut/Unterorganisation
-chair_name: ""                                              # Name der AG
-chair_url: ""                                               # Hompage der AG
-imprint_url: ""                                             # offizielles Impressum der Organisation
+uni_name: "Hotzenplotz"                                                # Name der Uni/Institution               
+uni_url: "Hotzenplotz"                                                 # Hompage der Uni/Institution
+institute_name: "Hotzenplotz"                                          # Name der Abteilung/Institut/Unterorganisation
+institute_url: "Hotzenplotz"                                           # Hompage der Abteilung/Institut/Unterorganisation
+chair_name: "Hotzenplotz"                                              # Name der AG
+chair_url: "Hotzenplotz"                                               # Hompage der AG
+imprint_url: "Hotzenplotz"                                             # offizielles Impressum der Organisation
 

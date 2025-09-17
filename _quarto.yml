@@ -19,7 +19,7 @@ website:
   page-footer:
     center: |
       your organisation (<span class="year"></span>) —
-      <a class="impressum-link" href="#">Impressum</a>
+      <a class="impressum-link" href="base/impressum.html">Impressum</a>
 
   search:
     location: navbar
@@ -28,15 +28,15 @@ website:
   navbar:
     background: primary
     foreground: light
-    logo: images/logooil.jpg
+    logo: images/your-logo.png
     left:
       - icon: question-square-fill
-        text: FAQ
-        href: base/faq.qmd
+        text: Hotzenplotz
+        href: Hotzenplotz
     right:
       - icon: chat-left-text-fill
-        text: Interne Lernplattform
-        href: https://www.ilias.uni-koeln.de/ilias/login.php?client_id=uk&cmd=force_login&lang=de
+        text: Hotzenplotz
+        href: Hotzenplotz
 
   sidebar:
     pinned: true
@@ -63,7 +63,7 @@ format:
   html:
     theme:
       light: [lumen]
-      # __DARK_THEME_LINE__   # ← wird vom configure-Script ersetzt
+      #       dark:  lumen   # ← wird vom configure-Script ersetzt
     css: css/styles.css
     toc: true
     code-copy: true

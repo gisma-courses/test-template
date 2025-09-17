@@ -7,6 +7,6 @@ title: ""
 
 gibts was zu erzählen
 
-Organisation: **{{org_name}}**
-Kurs: **{{course_code}}**
-Kontakt: <{{contact_email}}>
+Organisation: **your organisation**
+Kurs: **KURS-123**
+Kontakt: <name@uni.de>
