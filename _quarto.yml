@@ -9,8 +9,8 @@ resource-path:
 
 website:
   title: "your title"
-  site-url: https://your-github-name.github.io/your-repo
-  repo-url: https://github.com/your-github-name/your-repo
+  site-url: https://gisma-courses.github.io/test-template
+  repo-url: https://github.com/gisma-courses/test-template
   repo-actions: []   # [source, issue, edit] bei Bedarf manuell setzen
   page-navigation: true
   bread-crumbs: false
@@ -32,11 +32,11 @@ website:
     left:
       - icon: question-square-fill
         text: Hotzenplotz
-        href: Hotzenplotz
+        href: https://www.ilias.uni-koeln.de/ilias/login.php
     right:
       - icon: chat-left-text-fill
         text: Hotzenplotz
-        href: Hotzenplotz
+        href: https://www.ilias.uni-koeln.de/ilias/login.php
 
   sidebar:
     pinned: true
@@ -63,6 +63,7 @@ format:
   html:
     theme:
       light: [lumen]
+      dark:  lumen
       #       dark:  lumen   # ← wird vom configure-Script ersetzt
     css: css/styles.css
     toc: true
