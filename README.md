@@ -2,7 +2,9 @@
 
 Ein Quarto-Gerüst für Kurs-Webseiten mit **Branding**, **Impressum** und **Auto-Deploy auf GitHub Pages**.
 
-Ein Blick auf die [Demo Seite](https://ogerhub.github.io/course-web-template/) zeigt das Default-setup.
+Ein Blick auf die [Demo Seite](https://ogerhub.github.io/course-web-template/) zeigt das Default-setup. 
+
+>Prinzipiell Kann das Template auch ausschliesslich online bedient werden aber dann müssen die Einträge und checks die das `configure.py``` script macht manuell eingetragen werden.
 
 ------------------------------------------------------------------------
 
